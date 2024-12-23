@@ -16,6 +16,6 @@ The hybrid approach demonstrates better performance compared to traditional meth
 
 Applications:
 This algorithm is particularly useful for large datasets where sorting and searching are frequent operations, offering improved scalability and efficiency.
-Limitations:
 
+Limitations:
 And so the study focuses on numeric, one-dimensional arrays only.
