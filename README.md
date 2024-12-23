@@ -18,4 +18,4 @@ Applications:
 This algorithm is particularly useful for large datasets where sorting and searching are frequent operations, offering improved scalability and efficiency.
 
 Limitations:
-And so the study focuses on numeric, one-dimensional arrays only.
+So the study focuses on numeric, one-dimensional arrays only.
